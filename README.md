@@ -4,7 +4,7 @@ This project is a **real-time image classification system** built using Python, 
 
 It uses a computer's **webcam** to capture live video and a pre-trained **MobileNetV2 CNN model** to identify objects in the video.
 
-## 🚀 Features
+## 🚀 Features:
 
 * Real-time image classification using webcam
 * Pre-trained MobileNetV2 CNN model
@@ -12,7 +12,7 @@ It uses a computer's **webcam** to capture live video and a pre-trained **Mobile
 * Displays predicted object with confidence percentage
 * Press **`q`** to exit
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used:
 
 * Python
 * OpenCV
@@ -21,7 +21,7 @@ It uses a computer's **webcam** to capture live video and a pre-trained **Mobile
 * MobileNetV2
 * ImageNet
 
-## 📦 Installation
+## 📦 Installation:
 
 Install the required libraries:
 
