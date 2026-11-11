@@ -55,7 +55,7 @@ Object Prediction
 Display Result
 ```
 
-## 🧠 Model
+## Model
 
 **MobileNetV2** is a lightweight pre-trained Convolutional Neural Network (CNN) trained on the **ImageNet** dataset.
 
